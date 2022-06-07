@@ -1,4 +1,8 @@
-Kobosnidze Polina Georgievna
-27 years
-2 pets
-200 thousands
+<?xml version="1.0" encording="UTF-8" ?>
+<person>
+<name>Kobosnidze Polina Georgievna</name>
+<age>27</age>
+<pets>turtle</pets>
+<salary>200 thousands</salary>
+</person>
+

@@ -1,9 +1,8 @@
 <?xml version="1.0" encording="UTF-8" ?>
 <preferences>
-<fav film>Mary&amp;Max</fav film>
-<fav series>The Marvelous Mrs Maisel</fav series>
-<fav food>Tom Yum</fav food>
-<fav season>Spring</fav season>
-<fav country>India</fav country>
+<fav_film>Mary&amp;Max</fav_film>
+<fav_series>The Marvelous Mrs Maisel</fav_series>
+<fav_food>Tom Yum</fav_food>
+<fav_season>Spring</fav_season>
+<fav_country>India</fav_country>
 </preferences>
-

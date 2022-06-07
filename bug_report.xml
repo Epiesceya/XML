@@ -1,0 +1,16 @@
+<?xml version="1.0" encording="UTF-8" ?>
+<bug_report>
+<tg_name></tg_name>
+<bug_id></bug_id>
+<title></title>
+<severity></severity>
+<priority></priority>
+<environment></environment>
+<precondition></precondition>
+<steps>
+<step_1></step_1>
+<step_2></step_2>
+</steps>
+<ar></ar>
+<er></er>
+</bug_report>
